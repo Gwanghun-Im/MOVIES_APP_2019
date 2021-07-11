@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MOVIES_APP_2019/static/css/main.f3de35d0.chunk.css",
+    "main.js": "/MOVIES_APP_2019/static/js/main.f7674d4e.chunk.js",
+    "main.js.map": "/MOVIES_APP_2019/static/js/main.f7674d4e.chunk.js.map",
+    "runtime-main.js": "/MOVIES_APP_2019/static/js/runtime-main.d4912eb5.js",
+    "runtime-main.js.map": "/MOVIES_APP_2019/static/js/runtime-main.d4912eb5.js.map",
+    "static/js/2.d0e802c1.chunk.js": "/MOVIES_APP_2019/static/js/2.d0e802c1.chunk.js",
+    "static/js/2.d0e802c1.chunk.js.map": "/MOVIES_APP_2019/static/js/2.d0e802c1.chunk.js.map",
+    "index.html": "/MOVIES_APP_2019/index.html",
+    "static/css/main.f3de35d0.chunk.css.map": "/MOVIES_APP_2019/static/css/main.f3de35d0.chunk.css.map",
+    "static/js/2.d0e802c1.chunk.js.LICENSE.txt": "/MOVIES_APP_2019/static/js/2.d0e802c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4912eb5.js",
+    "static/js/2.d0e802c1.chunk.js",
+    "static/css/main.f3de35d0.chunk.css",
+    "static/js/main.f7674d4e.chunk.js"
+  ]
+}
